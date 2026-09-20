@@ -1,0 +1,784 @@
+[
+  {
+    "id": "m01",
+    "type": "MUSIC",
+    "title": "Midnight City",
+    "description": "M83 \u2014 played on repeat during a late-night work session.",
+    "date": "2026-01-14",
+    "time": "02:13 AM",
+    "timestamp": "2026-01-14T02:13:00",
+    "location": "Indiranagar",
+    "keywords": [
+      "m83",
+      "midnight",
+      "work",
+      "city"
+    ],
+    "metadata": {
+      "artist": "M83",
+      "duration": "4:03"
+    }
+  },
+  {
+    "id": "p01",
+    "type": "PLACE",
+    "title": "Third Wave Coffee",
+    "description": "Stayed by the window long after the last order.",
+    "date": "2026-01-14",
+    "time": "02:28 AM",
+    "timestamp": "2026-01-14T02:28:00",
+    "location": "Indiranagar",
+    "keywords": [
+      "coffee",
+      "work",
+      "window",
+      "late"
+    ],
+    "metadata": {
+      "visits": 12
+    }
+  },
+  {
+    "id": "s01",
+    "type": "SEARCH",
+    "title": "24 hour cafes near me",
+    "description": "A search made fifteen minutes after Midnight City started.",
+    "date": "2026-01-14",
+    "time": "02:31 AM",
+    "timestamp": "2026-01-14T02:31:00",
+    "location": "Indiranagar",
+    "keywords": [
+      "cafe",
+      "coffee",
+      "late",
+      "midnight"
+    ],
+    "metadata": {
+      "queryCount": 1
+    }
+  },
+  {
+    "id": "photo01",
+    "type": "PHOTO",
+    "title": "Rain on 100 Feet Road",
+    "description": "A blurry phone photo of headlights through rain.",
+    "date": "2026-01-14",
+    "time": "02:42 AM",
+    "timestamp": "2026-01-14T02:42:00",
+    "location": "Indiranagar",
+    "keywords": [
+      "rain",
+      "road",
+      "night",
+      "city"
+    ],
+    "metadata": {
+      "camera": "Phone"
+    }
+  },
+  {
+    "id": "msg01",
+    "type": "MESSAGE",
+    "title": "Still awake?",
+    "description": "A saved message: \u201ccoffee?\u201d followed by a location pin.",
+    "date": "2026-01-14",
+    "time": "02:47 AM",
+    "timestamp": "2026-01-14T02:47:00",
+    "location": "Indiranagar",
+    "keywords": [
+      "coffee",
+      "awake",
+      "message"
+    ],
+    "metadata": {
+      "thread": "R"
+    }
+  },
+  {
+    "id": "buy01",
+    "type": "PURCHASE",
+    "title": "Filter Coffee + Bun",
+    "description": "A small receipt from the cafe counter.",
+    "date": "2026-01-14",
+    "time": "02:58 AM",
+    "timestamp": "2026-01-14T02:58:00",
+    "location": "Indiranagar",
+    "keywords": [
+      "coffee",
+      "bun",
+      "cafe",
+      "purchase"
+    ],
+    "metadata": {
+      "amount": "\u20b9184"
+    }
+  },
+  {
+    "id": "movie01",
+    "type": "MOVIES",
+    "title": "Before Sunrise",
+    "description": "Watched on the ride home; saved the scene at 04:02.",
+    "date": "2026-01-15",
+    "time": "03:21 AM",
+    "timestamp": "2026-01-15T03:21:00",
+    "location": "Home",
+    "keywords": [
+      "movie",
+      "night",
+      "sunrise",
+      "travel"
+    ],
+    "metadata": {
+      "platform": "Local library"
+    }
+  },
+  {
+    "id": "note01",
+    "type": "NOTE",
+    "title": "Do more things after midnight",
+    "description": "A one-line note written before sleep.",
+    "date": "2026-01-15",
+    "time": "04:06 AM",
+    "timestamp": "2026-01-15T04:06:00",
+    "location": "Home",
+    "keywords": [
+      "midnight",
+      "note",
+      "sleep",
+      "ideas"
+    ],
+    "metadata": {
+      "folder": "Personal"
+    }
+  },
+  {
+    "id": "event01",
+    "type": "EVENT",
+    "title": "Design review",
+    "description": "Calendar event with three collaborators.",
+    "date": "2026-01-16",
+    "time": "11:00 AM",
+    "timestamp": "2026-01-16T11:00:00",
+    "location": "Koramangala",
+    "keywords": [
+      "design",
+      "review",
+      "work",
+      "team"
+    ],
+    "metadata": {
+      "attendees": 3
+    }
+  },
+  {
+    "id": "place02",
+    "type": "PLACE",
+    "title": "The Courtyard",
+    "description": "The same table used for a project review and two photo sessions.",
+    "date": "2026-01-16",
+    "time": "01:12 PM",
+    "timestamp": "2026-01-16T13:12:00",
+    "location": "Koramangala",
+    "keywords": [
+      "work",
+      "table",
+      "photos",
+      "project"
+    ],
+    "metadata": {
+      "visits": 8
+    }
+  },
+  {
+    "id": "photo02",
+    "type": "PHOTO",
+    "title": "Whiteboard 03",
+    "description": "A photographed architecture sketch from the design review.",
+    "date": "2026-01-16",
+    "time": "01:26 PM",
+    "timestamp": "2026-01-16T13:26:00",
+    "location": "Koramangala",
+    "keywords": [
+      "architecture",
+      "design",
+      "whiteboard"
+    ],
+    "metadata": {
+      "camera": "Phone"
+    }
+  },
+  {
+    "id": "buy02",
+    "type": "PURCHASE",
+    "title": "A5 Grid Notebook",
+    "description": "Stationery bought two minutes after leaving the cafe.",
+    "date": "2026-01-16",
+    "time": "01:39 PM",
+    "timestamp": "2026-01-16T13:39:00",
+    "location": "Koramangala",
+    "keywords": [
+      "notebook",
+      "stationery",
+      "design",
+      "work"
+    ],
+    "metadata": {
+      "amount": "\u20b9120"
+    }
+  },
+  {
+    "id": "s02",
+    "type": "SEARCH",
+    "title": "how to structure a case study",
+    "description": "Search opened after the design review.",
+    "date": "2026-01-16",
+    "time": "02:04 PM",
+    "timestamp": "2026-01-16T14:04:00",
+    "location": "Koramangala",
+    "keywords": [
+      "case study",
+      "design",
+      "work",
+      "research"
+    ],
+    "metadata": {
+      "queryCount": 3
+    }
+  },
+  {
+    "id": "m02",
+    "type": "MUSIC",
+    "title": "A Real Hero",
+    "description": "College Radio \u2014 played while editing the case study.",
+    "date": "2026-01-17",
+    "time": "12:42 AM",
+    "timestamp": "2026-01-17T00:42:00",
+    "location": "Home",
+    "keywords": [
+      "radio",
+      "hero",
+      "editing",
+      "work"
+    ],
+    "metadata": {
+      "artist": "College Radio",
+      "duration": "3:31"
+    }
+  },
+  {
+    "id": "msg02",
+    "type": "MESSAGE",
+    "title": "Send me the final",
+    "description": "A teammate asks for the deck before morning.",
+    "date": "2026-01-17",
+    "time": "12:57 AM",
+    "timestamp": "2026-01-17T00:57:00",
+    "location": "Home",
+    "keywords": [
+      "deck",
+      "work",
+      "final",
+      "team"
+    ],
+    "metadata": {
+      "thread": "Project"
+    }
+  },
+  {
+    "id": "note02",
+    "type": "NOTE",
+    "title": "Red is enough",
+    "description": "A design note: \u201cOne accent. Let the whitespace do the work.\u201d",
+    "date": "2026-01-17",
+    "time": "01:08 AM",
+    "timestamp": "2026-01-17T01:08:00",
+    "location": "Home",
+    "keywords": [
+      "red",
+      "design",
+      "whitespace",
+      "idea"
+    ],
+    "metadata": {
+      "folder": "Design"
+    }
+  },
+  {
+    "id": "movie02",
+    "type": "MOVIES",
+    "title": "The Social Network",
+    "description": "A film saved after a week of interface work.",
+    "date": "2026-01-19",
+    "time": "10:14 PM",
+    "timestamp": "2026-01-19T22:14:00",
+    "location": "Home",
+    "keywords": [
+      "movie",
+      "design",
+      "network",
+      "work"
+    ],
+    "metadata": {
+      "platform": "Watchlist"
+    }
+  },
+  {
+    "id": "buy03",
+    "type": "PURCHASE",
+    "title": "Black notebook",
+    "description": "A repeat purchase: the same notebook as last month.",
+    "date": "2026-01-20",
+    "time": "06:42 PM",
+    "timestamp": "2026-01-20T18:42:00",
+    "location": "Indiranagar",
+    "keywords": [
+      "notebook",
+      "black",
+      "repeat",
+      "purchase"
+    ],
+    "metadata": {
+      "amount": "\u20b9240"
+    }
+  },
+  {
+    "id": "place03",
+    "type": "PLACE",
+    "title": "Corner Table",
+    "description": "Preferred seat at a familiar cafe.",
+    "date": "2026-01-20",
+    "time": "07:02 PM",
+    "timestamp": "2026-01-20T19:02:00",
+    "location": "Indiranagar",
+    "keywords": [
+      "cafe",
+      "table",
+      "familiar",
+      "work"
+    ],
+    "metadata": {
+      "visits": 23
+    }
+  },
+  {
+    "id": "photo03",
+    "type": "PHOTO",
+    "title": "Window Light",
+    "description": "Same corner, same angle, nineteen days later.",
+    "date": "2026-01-20",
+    "time": "07:14 PM",
+    "timestamp": "2026-01-20T19:14:00",
+    "location": "Indiranagar",
+    "keywords": [
+      "window",
+      "light",
+      "cafe",
+      "repeat"
+    ],
+    "metadata": {
+      "camera": "Phone"
+    }
+  },
+  {
+    "id": "s03",
+    "type": "SEARCH",
+    "title": "best ambient playlists",
+    "description": "Search for music without lyrics.",
+    "date": "2026-01-20",
+    "time": "07:28 PM",
+    "timestamp": "2026-01-20T19:28:00",
+    "location": "Indiranagar",
+    "keywords": [
+      "ambient",
+      "music",
+      "cafe",
+      "focus"
+    ],
+    "metadata": {
+      "queryCount": 5
+    }
+  },
+  {
+    "id": "m03",
+    "type": "MUSIC",
+    "title": "Intro",
+    "description": "The xx \u2014 first track on the ambient playlist.",
+    "date": "2026-01-20",
+    "time": "07:31 PM",
+    "timestamp": "2026-01-20T19:31:00",
+    "location": "Indiranagar",
+    "keywords": [
+      "the xx",
+      "ambient",
+      "music",
+      "focus"
+    ],
+    "metadata": {
+      "artist": "The xx",
+      "duration": "2:07"
+    }
+  },
+  {
+    "id": "event02",
+    "type": "EVENT",
+    "title": "Movie night",
+    "description": "An event created for four friends.",
+    "date": "2026-01-22",
+    "time": "08:00 PM",
+    "timestamp": "2026-01-22T20:00:00",
+    "location": "Koramangala",
+    "keywords": [
+      "movie",
+      "friends",
+      "cinema",
+      "night"
+    ],
+    "metadata": {
+      "attendees": 4
+    }
+  },
+  {
+    "id": "movie03",
+    "type": "MOVIES",
+    "title": "Dune: Part Two",
+    "description": "Cinema ticket linked to Movie night.",
+    "date": "2026-01-22",
+    "time": "08:21 PM",
+    "timestamp": "2026-01-22T20:21:00",
+    "location": "Koramangala",
+    "keywords": [
+      "movie",
+      "dune",
+      "cinema",
+      "friends"
+    ],
+    "metadata": {
+      "platform": "Cinema"
+    }
+  },
+  {
+    "id": "buy04",
+    "type": "PURCHASE",
+    "title": "Popcorn + Cola",
+    "description": "Cinema concession receipt.",
+    "date": "2026-01-22",
+    "time": "08:29 PM",
+    "timestamp": "2026-01-22T20:29:00",
+    "location": "Koramangala",
+    "keywords": [
+      "popcorn",
+      "cola",
+      "cinema",
+      "movie"
+    ],
+    "metadata": {
+      "amount": "\u20b9420"
+    }
+  },
+  {
+    "id": "photo04",
+    "type": "PHOTO",
+    "title": "Cinema Lobby",
+    "description": "A group photo taken before the screening.",
+    "date": "2026-01-22",
+    "time": "08:05 PM",
+    "timestamp": "2026-01-22T20:05:00",
+    "location": "Koramangala",
+    "keywords": [
+      "cinema",
+      "friends",
+      "movie",
+      "photo"
+    ],
+    "metadata": {
+      "camera": "Phone"
+    }
+  },
+  {
+    "id": "msg03",
+    "type": "MESSAGE",
+    "title": "Doors in 10",
+    "description": "Group message sent just before the screening.",
+    "date": "2026-01-22",
+    "time": "08:10 PM",
+    "timestamp": "2026-01-22T20:10:00",
+    "location": "Koramangala",
+    "keywords": [
+      "cinema",
+      "friends",
+      "movie",
+      "doors"
+    ],
+    "metadata": {
+      "thread": "Movie night"
+    }
+  },
+  {
+    "id": "event03",
+    "type": "EVENT",
+    "title": "Weekend market",
+    "description": "A recurring Saturday plan.",
+    "date": "2026-01-24",
+    "time": "10:30 AM",
+    "timestamp": "2026-01-24T10:30:00",
+    "location": "Indiranagar",
+    "keywords": [
+      "market",
+      "weekend",
+      "shopping",
+      "friends"
+    ],
+    "metadata": {
+      "attendees": 2
+    }
+  },
+  {
+    "id": "buy05",
+    "type": "PURCHASE",
+    "title": "Vinyl record",
+    "description": "A second-hand record found at the weekend market.",
+    "date": "2026-01-24",
+    "time": "11:12 AM",
+    "timestamp": "2026-01-24T11:12:00",
+    "location": "Indiranagar",
+    "keywords": [
+      "music",
+      "vinyl",
+      "market",
+      "purchase"
+    ],
+    "metadata": {
+      "amount": "\u20b9650"
+    }
+  },
+  {
+    "id": "m04",
+    "type": "MUSIC",
+    "title": "Space Song",
+    "description": "Beach House \u2014 saved after finding the record.",
+    "date": "2026-01-24",
+    "time": "11:27 AM",
+    "timestamp": "2026-01-24T11:27:00",
+    "location": "Indiranagar",
+    "keywords": [
+      "beach house",
+      "vinyl",
+      "music",
+      "space"
+    ],
+    "metadata": {
+      "artist": "Beach House",
+      "duration": "5:20"
+    }
+  },
+  {
+    "id": "note03",
+    "type": "NOTE",
+    "title": "Keep this song",
+    "description": "\u201cThe one from the market.\u201d",
+    "date": "2026-01-24",
+    "time": "11:33 AM",
+    "timestamp": "2026-01-24T11:33:00",
+    "location": "Indiranagar",
+    "keywords": [
+      "song",
+      "market",
+      "music",
+      "memory"
+    ],
+    "metadata": {
+      "folder": "Personal"
+    }
+  },
+  {
+    "id": "s04",
+    "type": "SEARCH",
+    "title": "Beach House vinyl",
+    "description": "Search made after the market purchase.",
+    "date": "2026-01-24",
+    "time": "11:40 AM",
+    "timestamp": "2026-01-24T11:40:00",
+    "location": "Indiranagar",
+    "keywords": [
+      "beach house",
+      "vinyl",
+      "music",
+      "search"
+    ],
+    "metadata": {
+      "queryCount": 2
+    }
+  },
+  {
+    "id": "p02",
+    "type": "PLACE",
+    "title": "Cubbon Park Gate",
+    "description": "A quiet Sunday walk saved as a place.",
+    "date": "2026-01-25",
+    "time": "07:44 AM",
+    "timestamp": "2026-01-25T07:44:00",
+    "location": "Cubbon Park",
+    "keywords": [
+      "park",
+      "walk",
+      "morning",
+      "quiet"
+    ],
+    "metadata": {
+      "visits": 6
+    }
+  },
+  {
+    "id": "photo05",
+    "type": "PHOTO",
+    "title": "Morning Trees",
+    "description": "A vertical photo from the Sunday walk.",
+    "date": "2026-01-25",
+    "time": "08:02 AM",
+    "timestamp": "2026-01-25T08:02:00",
+    "location": "Cubbon Park",
+    "keywords": [
+      "park",
+      "trees",
+      "morning",
+      "walk"
+    ],
+    "metadata": {
+      "camera": "Phone"
+    }
+  },
+  {
+    "id": "msg04",
+    "type": "MESSAGE",
+    "title": "Coffee after the walk?",
+    "description": "A message sent while leaving the park.",
+    "date": "2026-01-25",
+    "time": "08:17 AM",
+    "timestamp": "2026-01-25T08:17:00",
+    "location": "Cubbon Park",
+    "keywords": [
+      "coffee",
+      "walk",
+      "morning",
+      "message"
+    ],
+    "metadata": {
+      "thread": "R"
+    }
+  },
+  {
+    "id": "p03",
+    "type": "PLACE",
+    "title": "Lavonne Cafe",
+    "description": "Breakfast stop after the park.",
+    "date": "2026-01-25",
+    "time": "08:41 AM",
+    "timestamp": "2026-01-25T08:41:00",
+    "location": "Indiranagar",
+    "keywords": [
+      "coffee",
+      "breakfast",
+      "walk",
+      "cafe"
+    ],
+    "metadata": {
+      "visits": 9
+    }
+  },
+  {
+    "id": "buy06",
+    "type": "PURCHASE",
+    "title": "Croissant + Coffee",
+    "description": "Breakfast receipt from the Sunday stop.",
+    "date": "2026-01-25",
+    "time": "08:52 AM",
+    "timestamp": "2026-01-25T08:52:00",
+    "location": "Indiranagar",
+    "keywords": [
+      "coffee",
+      "breakfast",
+      "croissant",
+      "cafe"
+    ],
+    "metadata": {
+      "amount": "\u20b9310"
+    }
+  },
+  {
+    "id": "s05",
+    "type": "SEARCH",
+    "title": "best running route bengaluru",
+    "description": "A route search saved after breakfast.",
+    "date": "2026-01-25",
+    "time": "09:16 AM",
+    "timestamp": "2026-01-25T09:16:00",
+    "location": "Indiranagar",
+    "keywords": [
+      "running",
+      "route",
+      "bengaluru",
+      "morning"
+    ],
+    "metadata": {
+      "queryCount": 4
+    }
+  },
+  {
+    "id": "event04",
+    "type": "EVENT",
+    "title": "Hackathon build day",
+    "description": "Six-hour build sprint.",
+    "date": "2026-01-27",
+    "time": "09:00 AM",
+    "timestamp": "2026-01-27T09:00:00",
+    "location": "Home",
+    "keywords": [
+      "hackathon",
+      "build",
+      "frontend",
+      "work"
+    ],
+    "metadata": {
+      "duration": "6 hours"
+    }
+  },
+  {
+    "id": "note04",
+    "type": "NOTE",
+    "title": "Ship the story",
+    "description": "The task is not a dashboard. It is a discovery.",
+    "date": "2026-01-27",
+    "time": "09:12 AM",
+    "timestamp": "2026-01-27T09:12:00",
+    "location": "Home",
+    "keywords": [
+      "hackathon",
+      "story",
+      "dashboard",
+      "design"
+    ],
+    "metadata": {
+      "folder": "Hackathon"
+    }
+  },
+  {
+    "id": "m05",
+    "type": "MUSIC",
+    "title": "Outro",
+    "description": "M83 \u2014 played during the final polish.",
+    "date": "2026-01-27",
+    "time": "02:41 PM",
+    "timestamp": "2026-01-27T14:41:00",
+    "location": "Home",
+    "keywords": [
+      "m83",
+      "outro",
+      "hackathon",
+      "focus"
+    ],
+    "metadata": {
+      "artist": "M83",
+      "duration": "4:04"
+    }
+  }
+]
